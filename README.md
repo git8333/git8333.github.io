@@ -5,37 +5,37 @@
 Throughout the Computer Science program, I was able to build a strong foundation across multiple areas of the field, such as software engineering, database management, algorithms, and security. This ePortfolio represents the work I have done throughout the program, and showcases the skills I have developed through a single enhanced artifact, which is an animal shelter dashboard built using Python, Dash, and MongoDB.
 
 
-###Collaborating in a Team Environment
+### Collaborating in a Team Environment
 
 Throughout the program, working with others was a big part of the experience. Creating a code review and receiving feedback from the instructor constantly taught me how important it is to write code that is clean and easy to follow, not just code that works. The code review I did for this capstone was a good example of that, as I had to go through existing code, identify what was wrong with it, and explain my findings and plans in a way that someone else could understand and follow.
 
-###Communicating with Stakeholders
+### Communicating with Stakeholders
 
 Communicating clearly is something I have improved on throughout the program. Writing narratives and doing presentations helped me get better at explaining technical things to people who may not have the same background. The narratives I wrote for each enhancement show that I am able to break down what I did and why I did it in a way that makes sense to whoever is reading it.
 
 
-###Data Structures and Algorithms
+### Data Structures and Algorithms
 
 For the algorithms and data structures enhancement, I had to analyze where the performance issues were and figure out how to fix them. The original filtering logic was scanning the entire dataset every single time the user selected a filter, which was slow and inefficient. I implemented a dictionary-based caching system to store the results so they would not have to be recalculated every time. I also fixed the charts to show data for the full filtered dataset instead of just the current page, which required understanding how data moves through the application.
 
 
-###Software Engineering and Database
+### Software Engineering and Database
 
 For the software engineering enhancement, I took the original single file application and broke it into four separate modules, each handling a specific part of the application. This made the code much easier to maintain and understand. I also replaced the hardcoded credentials with environment variables and replaced the broken map component with an Outcome Type bar chart that actually works with the available data. For the database enhancement, I added error handling to all four CRUD operations, fixed logic errors in the update and delete methods, and added indexes on commonly queried fields to speed up queries on the large dataset.
 
 
-###Security
+### Security
 
 Security was something I had to actively think about during this project. The original code had the database credentials hardcoded directly into the source file, which is a serious vulnerability if the code is ever shared or uploaded publicly. I fixed this by moving the credentials to environment variables, which keeps them out of the codebase entirely and aligns with how it should be done professionally.
 
 
-###Summary
+### Summary
 
 The artifact in this ePortfolio, the animal shelter dashboard, brings together all three areas of enhancement into one project. The software engineering enhancements improved the structure and security of the application. The algorithms and data structures enhancements improved its performance. The database enhancements made it more reliable and scalable. Together these improvements show my growth across the different areas of computer science covered throughout the program and my readiness to work as a software developer.
 
 ## Code Review
 
---
+[--](https://www.youtube.com/watch?v=oxhRv6z0qtc)
 
 ## Artifact: Animal Shelter Dashboard
 
