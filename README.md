@@ -35,7 +35,7 @@ The artifact in this ePortfolio, the animal shelter dashboard, brings together a
 
 ## Code Review
 
-[--](https://www.youtube.com/watch?v=oxhRv6z0qtc)
+[Click here to watch the Code Review](https://www.youtube.com/watch?v=oxhRv6z0qtc)
 
 ## Artifact: Animal Shelter Dashboard
 
